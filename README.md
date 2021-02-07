@@ -1,2 +1,3 @@
-# LG Coding Club Practice
-These are some practice problems from the Los Gatos High school coding club. 
+# LGHS Coding Club Practice
+
+Where I put code that I write for the LGHS Coding Club
